@@ -6,3 +6,11 @@ user and allows him to enter the apartment, after he enters, he will see tempera
 intensity on the screen and if the temp. Was higher than 40 it will show a warning and a buzzer will
 be activated, but if he entered a wrong password 3 times in a row the system will shut down forever
 
+
+# And this is  video for simulation on Proteus
+
+
+
+
+https://user-images.githubusercontent.com/44624339/153694688-d90451b3-5ce8-4de7-aefd-cc441e53b10e.mp4
+
